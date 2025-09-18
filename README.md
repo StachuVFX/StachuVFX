@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StachuVFX
 - 👀 I’m interested in racing 🏎️ and computer graphics 🌅
-- 🌱 I’m currently learning C++, Java and OpenGL
+- 🌱 I’m currently learning C++ and Swift 💻
 - 💞️ I’m looking to collaborate on ... that's a secret 😇
 - 📫 How to reach me: stachuvfx@icloud.com
 
